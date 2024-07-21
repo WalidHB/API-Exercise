@@ -1,5 +1,7 @@
 # API-Exercise
 
+This repo acts as an exercise and a memory refresher for using APIs.
+# Deck of Cards API
 This project uses the Deck of Cards API to create a deck of cards and draw cards from it.
 
 ## Implemented
@@ -14,4 +16,4 @@ This project uses the Deck of Cards API to create a deck of cards and draw cards
 
 ## Project Overview
 
-The purpose of this project is to interact with the Deck of Cards API to perform common card-related actions. The implemented functionalities allow you to start a new deck, shuffle it, and draw cards from it.
+This project aims to interact with the Deck of Cards API to perform common card-related actions. The implemented functionalities allow you to start a new deck, shuffle it, and draw cards from it.
